@@ -1,0 +1,41 @@
+041 upper 메서드
+ticker = "btc_krw"
+ticker1 = ticker.upper()
+print(ticker1)
+
+042 lower 메서드
+ticker = "BTC_KRW"
+ticker = ticker.lower()
+print(ticker)
+
+043 capitalize 메서드
+a = "hello"
+a = a.capitalize()
+
+044 endswith 메서드
+file_name = "보고서.xlsx"
+file_name.endswith("xlsx")
+
+045 endswith 메서드
+file_name = "보고서.xlsx"
+file_name.endswith(("xlsx", "xls"))
+
+046 startswith 메서드
+file_name = "2020_보고서.xlsx"
+file_name.startswith("2020")
+
+047 split 메서드
+a = "hello world"
+a.split()
+
+048 split 메서드
+ticker = "btc_krw"
+ticker.split("_")
+
+049 split 메서드
+date = "2020-05-01"
+date.split("-")
+
+050 rstrip 메서드
+data = "039490     "
+data = data.rstrip()

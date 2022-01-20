@@ -1,0 +1,53 @@
+161
+for i in range(100):
+    print(i)
+
+162
+for x in range(2002, 2051, 4) :
+    print (x)
+
+163
+for num in range(3, 31, 3):
+    print (num)
+
+164
+for i in range(100):
+    print(99 - i)
+
+165
+for num in range(10) :
+    print(num / 10, num)
+
+166
+for i in range(1, 10) :
+    print (3, "x", i, " = ", 3 * i)
+
+167
+range(1, 10, 2)를 사용해서 홀수를 만듭니다.
+num = 3
+for i in range(1, 10, 2) :
+    print (num, "x", i, " = ", num * i)
+혹은 조건문을 사용해서 해결할 수도 있습니다.
+
+num = 3
+for i in range(1, 10) :
+    if i % 2 == 1 :
+        print (num, "x", i, " = ", num * i)
+
+168
+hab = 0
+for i in range(1, 11):
+    hab += i
+print ("합 :", hab)
+
+169
+hab = 0
+for i in range(1, 11, 2):
+    hab += i
+print ("합 :", hab)
+
+170
+result = 1
+for i in range(1, 11) :
+    result *= i
+print(result)

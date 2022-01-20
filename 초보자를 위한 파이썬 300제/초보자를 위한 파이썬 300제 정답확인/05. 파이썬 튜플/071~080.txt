@@ -1,0 +1,30 @@
+071
+my_variable = ()
+
+072
+movie_rank = ("닥터 스트레인지", "스플릿", "럭키")
+
+073
+my_tuple = (1, )
+
+074
+tuple은 원소(element)의 값을 변경할 수 없습니다.
+
+075
+원칙적으로 튜플은 괄호와 함께 데이터를 정의해야 하지만, 사용자 편의를 위해 괄호 없이도 동작합니다.
+
+076
+t = ('A', 'b', 'c')
+
+077
+data = list(interest)
+
+078
+data = tuple(interest)
+
+079 튜플 언팩킹
+apple banana cake
+
+080 range 함수
+data = tuple(range(2, 100, 2))
+print( data )

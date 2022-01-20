@@ -1,0 +1,29 @@
+001 print 기초
+print('Hello World')
+
+002 print 기초
+print("Mary's cosmetics")
+
+003 print 기초
+print('신씨가 소리질렀다. "도둑이야"')
+
+004 print 기초
+print("C:\Windows")
+
+005 print 탭과 줄바꿈
+\t는 탭을 의미하고 \n'은 줄바꿈을 의미합니다.
+
+006 print 여러 데이터 출력
+여러 값을 출력하려면 print 함수에서 쉼표로 구분해주면 됩니다. 따라서 오늘은 다음에 공백이 하나 있고 일요일이 출력됩니다.
+
+007 print 기초
+print("naver", "kakao", "samsung", sep=";")
+
+008 print 기초
+print("naver", "kakao", "samsung", sep="/")
+
+009 print 줄바꿈
+print("first", end=""); print("second")
+
+010 연산 결과 출력
+print(5/3)
