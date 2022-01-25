@@ -1,0 +1,27 @@
+# [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
+
+![](https://wikidocs.net/images//book/python300_zoR1Cof.PNG)
+
+|번호|목차|문제 번호|
+|:---:|:---:|:---:|
+|01|파이썬 시작하기|001~010|
+|02|파이썬 변수|011~020|
+|03|파이썬 문자열|021~050|
+|04|파이썬 리스트|051~070|
+|05|파이썬 튜플|071~080|
+|06|파이썬 딕셔너리|081~100|
+|07|파이썬 분기문|101~130|
+|08|파이썬 반복문|131~200|
+|09|파이썬 함수|201~240|
+|10|파이썬 모듈|241~250|
+|11|파이썬 클래스|251~290|
+|12|파일 입출력과 예외처리|291~300|
+
+[![label]](https://youtu.be/SiK4iYt_7-s)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SiK4iYt_7-s
+" target="_blank"><img src="http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg)](http://www.youtube.com/watch?v=SiK4iYt_7-s)
+
