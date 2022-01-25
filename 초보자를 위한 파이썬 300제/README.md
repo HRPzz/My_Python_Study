@@ -17,11 +17,5 @@
 |11|파이썬 클래스|251~290|
 |12|파일 입출력과 예외처리|291~300|
 
-[![label]](https://youtu.be/SiK4iYt_7-s)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SiK4iYt_7-s
-" target="_blank"><img src="http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg)](http://www.youtube.com/watch?v=SiK4iYt_7-s)
 
