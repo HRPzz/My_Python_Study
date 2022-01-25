@@ -16,6 +16,7 @@
 |12|파일 입출력과 예외처리|291~300|
 
 ---
-- 유튜브 강의 영상
+## 유튜브 강의 영상
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg)](http://www.youtube.com/watch?v=SiK4iYt_7-s)
 
