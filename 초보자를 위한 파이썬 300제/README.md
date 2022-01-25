@@ -1,7 +1,5 @@
 # [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
 
-![](https://wikidocs.net/images//book/python300_zoR1Cof.PNG)
-
 |번호|목차|문제 번호|
 |:---:|:---:|:---:|
 |01|파이썬 시작하기|001~010|
@@ -17,5 +15,7 @@
 |11|파이썬 클래스|251~290|
 |12|파일 입출력과 예외처리|291~300|
 
+---
+- 유튜브 강의 영상
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg)](http://www.youtube.com/watch?v=SiK4iYt_7-s)
 
