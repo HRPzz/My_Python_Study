@@ -18,5 +18,5 @@
 ---
 ## 유튜브 강의 영상
 
-<iframe width="817" height="545" src="https://www.youtube.com/embed/SiK4iYt_7-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SiK4iYt_7-s/0.jpg)](http://www.youtube.com/watch?v=SiK4iYt_7-s)
 
