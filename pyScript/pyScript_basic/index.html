@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>pyScript</title>
+
+        <!-- pyScript -->
+        <link
+            rel="stylesheet"
+            href="https://pyscript.net/latest/pyscript.css"
+        />
+        <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+
+        <!-- Pico CSS -->
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css"
+        />
+
+        <!-- Python Module -->
+        <py-env>
+            - numpy
+            - matplotlib
+            - paths:
+                - ./today.py
+        </py-env>
+    </head>
+    <body>
+        <!-- 유저가 입력하고 결과를 확인할 수 있는 REPL (Read-Eval-Print-Loop) 컴포넌트 -->
+        <py-repl>
+            import numpy as np
+            
+            print(np.random.randn(10))
+        </py-repl>
+
+        <py-script>
+            from today import get_date
+
+            date = get_date()
+            print(date)
+        </py-script>      
+    </body>
+</html>
